@@ -1,4 +1,4 @@
-# Dự án tạo App ToDoList đơn giản với ngôn ngữ Swift, framework UIkit
+# Dự án App ToDoList đơn giản với ngôn ngữ Swift, framework UIkit
 Đây là dự án thực hiện trong quá trình học Swift tại Trung Tâm Techmaster.
 ## Yêu cầu:
 1. Tạo 2 màn hình:
